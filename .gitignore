@@ -25,10 +25,5 @@ desktop.ini
 # outputs/tables/*.parquet
 # local-only heavy generated artifacts
 legacy_report_materials/
-data/raw/*.parquet
-data/summaries/diagnostic_oracle_gap.csv
-data/logged/*.parquet
-data/processed/*.parquet
-outputs/tables/*.parquet
 src/__pycache__/
 notebooks/.ipynb_checkpoints/
