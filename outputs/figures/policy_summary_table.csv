@@ -1,0 +1,6 @@
+policy,cum_regret_T300k,offline_replay_mean,offline_replay_err,dominant_arm
+ε-Greedy,12800,0.268,0.008,Chatbot
+UCB1,12000,0.257,0.006,Chatbot
+Thompson Sampling,10950,0.274,0.004,Chatbot
+LinUCB (α=0.8),6250,0.278,0.006,Mixed / contextual
+Contextual TS (v=0.5),6300,0.275,0.005,Mixed / contextual
