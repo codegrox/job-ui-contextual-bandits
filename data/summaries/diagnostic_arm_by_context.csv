@@ -1,0 +1,15 @@
+session_goal,oracle_arm_name,count,share_within_goal
+broad_exploration,card_grid,418772,0.9998686808634591
+broad_exploration,guided_chat,10,2.387620664379326e-05
+broad_exploration,hybrid_ranked,7,1.6713344650655282e-05
+broad_exploration,panel_split,38,9.072958524641439e-05
+casual_browse,card_grid,15805,0.05259952475722016
+casual_browse,guided_chat,4154,0.013824639407876782
+casual_browse,hybrid_ranked,279553,0.9303609582065908
+casual_browse,panel_split,966,0.0032148776283122227
+focused_search,guided_chat,47977,0.10624864357308318
+focused_search,panel_split,403577,0.8937513564269168
+panic_apply,guided_chat,415,0.0012608578086595107
+panic_apply,hybrid_ranked,11573,0.03516122269787113
+panic_apply,panel_split,29452,0.08948140766419255
+panic_apply,swipe_fast,287701,0.8740965118292768

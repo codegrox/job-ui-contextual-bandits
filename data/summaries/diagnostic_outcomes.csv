@@ -1,0 +1,16 @@
+arm_chosen_name,outcome,count,share_within_arm
+card_grid,ignored,199310,0.6133332512724565
+card_grid,interview_1,41562,0.1278980311544119
+card_grid,rejected,84090,0.25876871757313163
+guided_chat,ignored,156053,0.6025654391634908
+guided_chat,interview_1,35131,0.13565087786362706
+guided_chat,rejected,67797,0.2617836829728822
+hybrid_ranked,ignored,188377,0.6273127489243803
+hybrid_ranked,interview_1,38269,0.12743929242204255
+hybrid_ranked,rejected,73646,0.24524795865357718
+panel_split,ignored,191041,0.5775749476968473
+panel_split,interview_1,47649,0.1440573943960044
+panel_split,rejected,92074,0.2783676579071483
+swipe_fast,ignored,185228,0.6499205265946435
+swipe_fast,interview_1,32078,0.11255399103862794
+swipe_fast,rejected,67695,0.23752548236672855

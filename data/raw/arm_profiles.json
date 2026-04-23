@@ -1,0 +1,47 @@
+{
+  "panel_split": {
+    "arm_name": "panel_split",
+    "info_richness": 0.92,
+    "breadth": 0.18,
+    "time_cost_base": 0.62,
+    "self_filter_bonus": 0.32,
+    "impulsivity": 0.06,
+    "guidedness": 0.22
+  },
+  "swipe_fast": {
+    "arm_name": "swipe_fast",
+    "info_richness": 0.1,
+    "breadth": 1.0,
+    "time_cost_base": 0.04,
+    "self_filter_bonus": -0.32,
+    "impulsivity": 1.0,
+    "guidedness": 0.01
+  },
+  "card_grid": {
+    "arm_name": "card_grid",
+    "info_richness": 0.42,
+    "breadth": 0.94,
+    "time_cost_base": 0.14,
+    "self_filter_bonus": 0.0,
+    "impulsivity": 0.36,
+    "guidedness": 0.08
+  },
+  "guided_chat": {
+    "arm_name": "guided_chat",
+    "info_richness": 0.9,
+    "breadth": 0.12,
+    "time_cost_base": 0.78,
+    "self_filter_bonus": 0.42,
+    "impulsivity": 0.03,
+    "guidedness": 0.86
+  },
+  "hybrid_ranked": {
+    "arm_name": "hybrid_ranked",
+    "info_richness": 0.54,
+    "breadth": 0.4,
+    "time_cost_base": 0.26,
+    "self_filter_bonus": 0.08,
+    "impulsivity": 0.12,
+    "guidedness": 0.16
+  }
+}
