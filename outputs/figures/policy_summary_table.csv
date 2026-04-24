@@ -1,6 +1,6 @@
-policy,cum_regret_T300k,offline_replay_mean,offline_replay_err,dominant_arm
-ε-Greedy,12800,0.268,0.008,Chatbot
-UCB1,12000,0.257,0.006,Chatbot
-Thompson Sampling,10950,0.274,0.004,Chatbot
-LinUCB (α=0.8),6250,0.278,0.006,Mixed / contextual
-Contextual TS (v=0.5),6300,0.275,0.005,Mixed / contextual
+policy,final_cum_reward,final_cum_regret,mean_reward,interview_rate,ignore_rate
+Contextual TS,151722.81,10302.83,0.1445,0.1385,0.5918
+LinUCB,151293.08,11028.82,0.1441,0.1382,0.5918
+Gaussian TS,143242.55,18854.9,0.1364,0.1337,0.603
+ε-Greedy,144075.39,19447.2,0.1372,0.1343,0.6047
+UCB1,140855.37,22874.04,0.1341,0.1304,0.6136
